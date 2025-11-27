@@ -9,6 +9,6 @@
  */
 public class Gframe {
     
-    System.out.print("hello world");
+    
 }
 
